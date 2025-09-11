@@ -130,12 +130,12 @@ airline-data-analysis-powerbi/
 
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
-- **Airline Operations**: 200 flights, only 41% on time → major reliability issues.  
-- **Passengers**: Airline A carried ~30% of total passengers; Airline B lowest.  
-- **Ticket Status**: 38% cancelled, 34% confirmed, 28% pending → customer dissatisfaction.  
-- **Flight Status**: 59% flights delayed/cancelled → operational inefficiency.  
-- **Destinations**: Houston (43 flights) & Los Angeles (42) top destinations; Chicago (33) underserved.  
-- **Passenger Load**: Very low (~1 ticket per flight), showing under-utilization.  
+- Improve **on-time performance** by addressing delays/cancellations.  
+- Optimize **ticket booking platforms** to reduce pending & cancelled tickets.  
+- Increase **flights to high-demand cities** (Houston, Los Angeles, Phoenix).  
+- Reallocate resources to underserved destinations (Chicago).  
+- Support weaker airlines (like Airline B) to balance competitiveness.  
+
 
 ---
 

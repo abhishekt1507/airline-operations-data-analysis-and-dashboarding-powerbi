@@ -61,7 +61,7 @@ The project uses the following datasets:
 airline-data-analysis-powerbi/
 │
 ├── README.md
-├── report.pdf
+├── final.pdf
 ├── PowerBI_File/
 │   └── airline_dashboard.pbix
 └── Dashboard_Screenshots/
